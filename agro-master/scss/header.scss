@@ -181,33 +181,7 @@
     }
   }
 
-  #cartIcon {
-    position: relative;
-    z-index: 1;
-    display: inline-block;
-
-    a {
-      display: inline-block;
-      font-size: 18px;
-
-      span {
-        position: absolute;
-        top: -5px;
-        right: -5px;
-        z-index: 9;
-        display: block;
-        width: 15px;
-        height: 15px;
-        border-radius: 50%;
-        background-color: $primary;
-        color: $white;
-        font-size: 10px;
-        text-align: center;
-        line-height: 15px;
-      }
-    }
-  }
-}
+ 
 
 .search-form {
   @include transition-duration(500ms);
