@@ -478,9 +478,12 @@ input:focus {
     -webkit-transition-duration: 500ms;
     -o-transition-duration: 500ms;
     transition-duration: 500ms;
-    display: inline-block; }
+    display: inline-block; 
+  font-size: medium;
+  }
     .header-area #searchIcon:focus, .header-area #searchIcon:hover {
-      color: #77b122; }
+      color: #063b09; 
+      }
   .header-area #cartIcon {
     position: relative;
     z-index: 1;
@@ -516,15 +519,21 @@ input:focus {
   height: 50px;
   opacity: 0;
   visibility: hidden;
-  box-shadow: 0 2px 15px 0 rgba(0, 0, 0, 0.15); }
+  box-shadow: 0 2px 15px 0 rgba(0, 0, 0, 0.15);
+
+  }
   @media only screen and (max-width: 767px) {
     .search-form {
       width: 280px;
-      right: 15px; } }
+      right: 15px; 
+    } }
   @media only screen and (min-width: 576px) and (max-width: 767px) {
     .search-form {
       width: 320px;
-      right: 0; } }
+      right: 0; 
+    
+    
+     } }
   .search-form input {
     width: 100%;
     height: 50px;
@@ -532,7 +541,10 @@ input:focus {
     border: none;
     padding: 15px;
     font-size: 12px;
-    font-style: italic; }
+    font-style: italic;
+  background-color: #dbe79c;
+  }
+
   .search-form .closeIcon {
     position: absolute;
     z-index: 99;
@@ -547,11 +559,16 @@ input:focus {
     margin-top: -8px;
     cursor: pointer; }
     .search-form .closeIcon:hover {
-      color: #77b122; }
+      color: #f30606; 
+     
+  
+    }
   .search-form.search-active {
     opacity: 1;
     visibility: visible;
-    bottom: -55px; }
+    bottom: -55px; 
+ 
+  }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .classynav {
