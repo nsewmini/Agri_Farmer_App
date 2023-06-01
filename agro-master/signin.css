@@ -45,9 +45,9 @@ a {
 
 button {
 	border-radius: 20px;
-	border: 1px solid #006400;
-	background-color: #006400;
-	color: #FFFFFF;
+	border: 1px solid #03a303;
+	background-color: #005b00;
+	color: #ffffff;
 	font-size: 12px;
 	font-weight: bold;
 	padding: 12px 45px;
@@ -70,7 +70,7 @@ button.ghost {
 }
 
 form {
-	background-color: #FFFFFF;
+	background-color: #ccf9ce;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -81,7 +81,7 @@ form {
 }
 
 input {
-	background-color: #eee;
+	background-color: #d6d6d6;
 	border: none;
 	padding: 12px 15px;
 	margin: 8px 0;
@@ -115,7 +115,7 @@ html{
 }
 
 body{
-    background:#eee;
+    background:#ecfff4;
 }
 
 section{
