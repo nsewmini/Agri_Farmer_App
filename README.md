@@ -23,7 +23,9 @@ sales management section
 ![Frame 6](https://github.com/nsewmini/Agri_Farmer_App/assets/96427674/1eb1a373-bedb-4233-9d33-9ebd0867df81)
 
 plant calender
+
 ![image](https://github.com/nsewmini/Agri_Farmer_App/assets/96427674/f99f4437-712e-4649-8456-03a3fe253f8a)
+
 ![image](https://github.com/nsewmini/Agri_Farmer_App/assets/96427674/7f7608fe-a2a8-4788-9f47-541f6c9308cf)
 
 
@@ -40,6 +42,7 @@ Resources section
 
 
 crop management
+
 ![image](https://github.com/nsewmini/Agri_Farmer_App/assets/96427674/7649012b-3e9a-4780-a341-3a3694c1b3df)
 
 ![image](https://github.com/nsewmini/Agri_Farmer_App/assets/96427674/a44c2339-83b5-4366-b325-8dc5cbd94d20)
